@@ -7,9 +7,15 @@ Implementation of the paper _Planner3D: LLM-enhanced graph prior meets 3D indoor
   
 ## Usage
 
-### Data Preparation
+### Preparation
+
+#### Data
 
 Download the [3D-FRONT](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-scene-dataset) dataset from their official site. Preprocess the dataset following [ATISS](https://github.com/nv-tlabs/ATISS#data-preprocessing). Download [3D-FUTURE-SDF](https://github.com/ymxlzgy/commonscenes) and [SG-FRONT](https://github.com/ymxlzgy/commonscenes/blob/main/SG-FRONT.md).
+
+#### Weights
+
+Put the [weight](https://drive.google.com/file/d/19TC_F6BVZluVJQ0C_JVr81-XpZtkbvu_/view?usp=sharing) under ./script/checkpoint
 
 ### Train
 
