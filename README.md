@@ -1,6 +1,6 @@
 # Planner3D
 
-Implementation of the paper _Planner3D: LLM-enhanced graph prior meets 3D indoor scene explicit regularization_ (TPAMI 2025). 
+Implementation of the paper _Planner3D: LLM-enhanced graph prior meets 3D indoor scene explicit regularization_. 
 
 
 ### [Project page](https://sites.google.com/view/planner3d)
