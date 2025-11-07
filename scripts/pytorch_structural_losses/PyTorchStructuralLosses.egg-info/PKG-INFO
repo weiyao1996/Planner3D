@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: PyTorchStructuralLosses
+Version: 0.1.0
+Summary: Tutorial for Pytorch C++ Extension with a Makefile
+Home-page: https://github.com/chrischoy/MakePytorchPlusPlus
+Author: Christopher B. Choy
+Author-email: chrischoy@ai.stanford.edu
+Keywords: Pytorch C++ Extension
+Requires-Dist: torch

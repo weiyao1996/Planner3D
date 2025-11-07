@@ -1,0 +1,11 @@
+setup.py
+./__init__.py
+./match_cost.py
+./nn_distance.py
+PyTorchStructuralLosses.egg-info/PKG-INFO
+PyTorchStructuralLosses.egg-info/SOURCES.txt
+PyTorchStructuralLosses.egg-info/dependency_links.txt
+PyTorchStructuralLosses.egg-info/not-zip-safe
+PyTorchStructuralLosses.egg-info/requires.txt
+PyTorchStructuralLosses.egg-info/top_level.txt
+pybind/bind.cpp
