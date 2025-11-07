@@ -15,7 +15,7 @@ Download the [3D-FRONT](https://tianchi.aliyun.com/specials/promotion/alibaba-3d
 
 #### Weights
 
-Put the [weight](https://drive.google.com/file/d/19TC_F6BVZluVJQ0C_JVr81-XpZtkbvu_/view?usp=sharing) under ./script/checkpoint
+Put the [weight](https://drive.google.com/file/d/19TC_F6BVZluVJQ0C_JVr81-XpZtkbvu_/view?usp=sharing) under ./scripts/checkpoint
 
 ### Train
 
